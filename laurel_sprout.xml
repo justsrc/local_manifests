@@ -28,7 +28,7 @@
         path="device/xiaomi/sm6125-common"
         name="device_xiaomi_sm6125-common"
         remote="justsrc"
-        revision="bka-23.2"
+        revision="bka-23.2-unofficial"
         clone-depth="1"
     />
 
