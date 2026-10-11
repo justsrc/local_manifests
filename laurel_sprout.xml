@@ -21,7 +21,7 @@
         path="device/xiaomi/laurel_sprout"
         name="device_xiaomi_laurel_sprout"
         remote="justsrc"
-        revision="bka-23.2"
+        revision="bka-23.2-unofficial"
         clone-depth="1"
     />
   <project
